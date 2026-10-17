@@ -18,8 +18,8 @@ This repository contains seminar tasks and laboratory assignments completed as p
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
-   cd YOUR_REPO_NAME
+   git clone https://github.com/levcool12/nlp
+   cd nlp
    ```
 
 2. **Install dependencies:**
